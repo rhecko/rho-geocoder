@@ -1,0 +1,65 @@
+html, body {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  background-color: #1e70a4;
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  background-color: #1e70a4;
+  color: #e6ffff;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+.container h1 {
+font-family: arial, sans-serif;
+font-size: 30px;
+color: #d6efff;
+margin-top: 80px;
+}
+
+.container form {
+margin: 20px;
+}
+
+.container input {
+margin: 5px;
+padding:10px;
+}
+
+.container button {
+margin: 4px;
+}
+
+.uploaded {
+#margin-top: 80px;
+margin-bottom: 30px;
+}
+
+.container a {
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  color: #e6ffff;  
+}
+
+table, th, td {
+    border: 2px solid blue;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 20px;
+
+}
+
+.download button{
+#margin-top: 20px;
+margin-bottom: 30px;
+}
